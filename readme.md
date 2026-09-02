@@ -1,151 +1,69 @@
 <div align="center">
 
-# MR.ONE
-
-### Building things that think.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=MR.ONE;Building+things+that+think.;AI+%C3%97+Software+%C3%97+Infrastructure" />
 
 <br/>
 
-**AI · Agent · Backend · Infrastructure**
-
-<br/>
-
-[![Website](https://img.shields.io/badge/Website-mrone.top-111111?style=flat-square\&logo=googlechrome\&logoColor=white)](https://mrone.top)
-[![Email](https://img.shields.io/badge/Email-mrone520i%40gmail.com-111111?style=flat-square\&logo=gmail\&logoColor=white)](mailto:mrone520i@gmail.com)
+<a href="https://mrone.top">
+  <img src="https://img.shields.io/badge/Explore-mrone.top-111111?style=flat-square&logo=googlechrome&logoColor=white" />
+</a>
+<a href="mailto:mrone520i@gmail.com">
+  <img src="https://img.shields.io/badge/Contact-mrone520i%40gmail.com-111111?style=flat-square&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
----
-
-## `> whoami`
-
-```yaml
-name: MR.ONE
-role: Builder
-focus:
-  - AI Agents
-  - Intelligent Systems
-  - High Concurrency Backend
-  - Infrastructure
-mindset:
-  - Build
-  - Break
-  - Learn
-  - Repeat
-```
-
-I enjoy building systems that connect **AI reasoning** with **real-world infrastructure**.
-
-From backend services and distributed systems to AI Agents and autonomous workflows —
-I'm interested in the space where **software starts becoming intelligent**.
-
----
-
-## `> currently_building`
-
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 AI Agents
-
-Exploring autonomous agents, tool calling, memory systems and multi-agent architectures.
-
-</td>
-
-<td width="50%">
-
-### 🧠 Knowledge Systems
-
-Building structured knowledge systems combining RAG, tools, context engineering and long-term memory.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### ⚡ Backend Systems
-
-High concurrency services, reactive programming and distributed architecture.
-
-</td>
-
-<td width="50%">
-
-### 🏗 Infrastructure
-
-Containers, cloud services, networking and self-hosted infrastructure.
-
-</td>
-</tr>
-</table>
-
----
-
-## `> tech_stack`
-
-### Languages
-
-![Kotlin](https://img.shields.io/badge/Kotlin-111111?style=flat-square\&logo=kotlin\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-111111?style=flat-square\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-111111?style=flat-square\&logo=python\&logoColor=white)
-
-### Backend & AI
-
-![Spring](https://img.shields.io/badge/Spring-111111?style=flat-square\&logo=spring\&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-111111?style=flat-square\&logo=langchain\&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-111111?style=flat-square\&logo=openai\&logoColor=white)
-
-### Infrastructure
-
-![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square\&logo=docker\&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-111111?style=flat-square\&logo=kubernetes\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=flat-square\&logo=postgresql\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-111111?style=flat-square\&logo=redis\&logoColor=white)
-
----
-
-## `> philosophy`
-
-> **One person can build something meaningful.**
-
-I believe personal projects are not just side projects.
-
-They are experiments.
-
-Experiments become systems.
-Systems become ideas.
-Ideas become possibilities.
-
----
-
-## `> system_status`
+<br/>
 
 ```text
-┌─────────────────────────────────────────┐
-│                                         │
-│   MR.ONE PERSONAL LAB                   │
-│                                         │
-│   STATUS      ● ONLINE                  │
-│   MODE        BUILDING                  │
-│   FOCUS       AI × SOFTWARE             │
-│                                         │
-└─────────────────────────────────────────┘
+> whoami
 ```
 
----
+```yaml
+MR.ONE
 
-<div align="center">
+Building:
+  - AI Agents
+  - Intelligent Systems
+  - Backend Infrastructure
 
-### Explore more
-
-🌐 **https://mrone.top**
-
-📮 **[mrone520i@gmail.com](mailto:mrone520i@gmail.com)**
+Stack:
+  Kotlin · Java · Python
+  Spring · Docker · PostgreSQL · Redis
+```
 
 <br/>
 
-`One person. Infinite possibilities.`
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=00000000&title_color=3B82F6&text_color=888888&icon_color=3B82F6" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=00000000&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" height="165"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### `SYSTEM STATUS`
+
+🟢 **ONLINE** · 🧠 **THINKING** · ⚡ **BUILDING**
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+<div align="center">
+
+<br/>
+
+**One person. Infinite possibilities.**
 
 </div>
