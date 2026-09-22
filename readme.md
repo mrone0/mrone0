@@ -29,7 +29,6 @@ Building:
 
 Stack:
   Kotlin · Java · Python
-  Spring · Docker · PostgreSQL · Redis
 ```
 
 <br/>
